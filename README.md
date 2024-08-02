@@ -1,2 +1,2 @@
 # sql
-My Projects in SQL
+My Projects in Structured Query Language
